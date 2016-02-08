@@ -10,3 +10,4 @@
 
 	<?php printf( __( 'You are currently logged in! %s?', 'wpuf' ), wp_loginout( '', false ) ) ?>
 </div>
+<!-- sadfadsfsdfasdfk gsjdf sadgfjagsdfjkahsg fkjdgsfafaks -->
